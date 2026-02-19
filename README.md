@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# MVP-servicebookingsystem-ai
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1F0cqva30uIgqCHzRXt42hf-ncOTlBEgu
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+## 📌 Project Description
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `VITE_OPENROUTER_API_KEY` and `VITE_OPENROUTER_MODEL` in [.env.local](.env.local) to your OpenRouter API credentials
-3. Run the app:
-   `npm run dev`
+## 🛠 Tech Stack
+Node.js / JavaScript
+
+## 📂 Repository Overview
+This repository contains the source code and assets related to the **MVP-servicebookingsystem-ai** project.
+
+## 🚀 How to Run
+Please refer to project files for setup and execution instructions.
+
+## 👤 Author
+Krishna Jaiswal
